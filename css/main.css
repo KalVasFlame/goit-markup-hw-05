@@ -190,10 +190,10 @@ p {
   padding-top: 60px;
   margin-bottom: 20px;
 }
-.footer-contacts-list {
+.footer-logo-accent {
+  color: var(--major-white-color);
 }
-.footer-contacts-item {
-}
+
 .footer-address-text {
   display: block;
   font-size: 14px;
