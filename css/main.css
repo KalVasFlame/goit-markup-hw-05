@@ -202,6 +202,11 @@ p {
   color: var(--major-white-color);
   margin-bottom: 9px;
 }
+.footer-contacts-mail {
+  display: block;
+  margin-bottom: 9px;
+}
+
 .footer-mail-text,
 .footer-tel-text {
   font-size: 14px;
